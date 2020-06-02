@@ -38,9 +38,9 @@ int main()
                 cin >> y;
                 cout << "suma : " << x/y << endl;
                 cin >> z;
-			default:
-				cout << "Zle podales argument, lub takie cos nie istnieje!\n";
-				break;
+		default:
+			cout << "Zle podales argument, lub takie cos nie istnieje!\n";
+			break;
     }
     return 0;
 }
